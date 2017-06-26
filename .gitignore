@@ -15,5 +15,8 @@
 # All settings
 !*.sublime-settings
 
+# All theme settings
+!*.sublime-theme
+
 # Readme 
 !readme.md

@@ -1,15 +1,6 @@
 {
-	"added_words":
-	[
-		"grey",
-		"checkbox",
-		"inline",
-		"collapsable",
-		"utilises",
-		"html",
-		"colour"
-	],
 	"color_scheme": "Packages/User/PandaCustom.tmTheme",
+	"theme": "Seti.sublime-theme",
 	"detect_indentation": true,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -31,7 +22,6 @@
 	"smart_indent": true,
 	"spell_check": false,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
