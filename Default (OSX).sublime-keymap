@@ -1,0 +1,20 @@
+[
+    { 
+        "keys": ["alt+h"], 
+        "command": "insert_snippet", 
+        "args": { 
+            "contents": "aria-hidden=\"true\" role=\"presentation\"" 
+        } 
+    },
+    { 
+        "keys": ["alt+c"], 
+        "command": "insert_snippet", 
+        "args": { 
+            "contents": "/*------------------------------------*\\\n    $1\n\\*------------------------------------*/" 
+        } 
+    },
+    { 
+        "keys": ["super+b"], 
+        "command": "toggle_side_bar" 
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "user": {
+        "linters": {
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "squiggly underline"
+    }
+}

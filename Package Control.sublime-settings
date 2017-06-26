@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"ESLint",
+		"Jinja2",
+		"Package Control",
+		"Panda Syntax Sublime",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Syntax Highlighting for Sass"
+	]
+}

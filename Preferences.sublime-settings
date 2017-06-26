@@ -1,0 +1,37 @@
+{
+	"added_words":
+	[
+		"grey",
+		"checkbox",
+		"inline",
+		"collapsable",
+		"utilises",
+		"html",
+		"colour"
+	],
+	"color_scheme": "Packages/User/PandaCustom.tmTheme",
+	"detect_indentation": true,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Input",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 10,
+	"smart_indent": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}

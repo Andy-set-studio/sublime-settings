@@ -1,0 +1,16 @@
+# Ignore all by default 
+*
+
+# Selectively add items from now on
+
+# Keep the gitignore
+!.gitignore
+
+# Custom Panda theme 
+!PandaCustom.tmTheme
+
+# Keymaps
+!*.sublime-keymap
+
+# All settings
+!*.sublime-settings
