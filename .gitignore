@@ -14,3 +14,6 @@
 
 # All settings
 !*.sublime-settings
+
+# Readme 
+!readme.md
