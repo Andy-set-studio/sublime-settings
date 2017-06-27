@@ -18,5 +18,8 @@
 # All theme settings
 !*.sublime-theme
 
+# All snippets
+!*.sublime-snippet
+
 # Readme 
 !readme.md

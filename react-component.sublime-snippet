@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+/*------------------------------------*\
+    MODULES
+\*------------------------------------*/
+import React from 'react';
+
+/*------------------------------------*\
+    $2
+\*------------------------------------*/
+class $1 extends React.Component {
+
+    constructor(props) {
+        super(props);
+    }
+
+    render() {
+        let self = this;
+
+        return (
+            <div>
+            </div>
+        );
+    }
+}
+
+export default $1;]]></content>
+    <tabTrigger>rc</tabTrigger>
+    <description>Create a react component</description>
+</snippet>
