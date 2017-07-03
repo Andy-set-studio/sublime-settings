@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Babel",
+		"DocBlockr",
 		"ESLint",
 		"Jinja2",
 		"Package Control",
