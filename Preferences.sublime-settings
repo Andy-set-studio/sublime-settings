@@ -23,5 +23,6 @@
 	"tab_size": 4,
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"codeintel_scan_files_in_project": true
 }
